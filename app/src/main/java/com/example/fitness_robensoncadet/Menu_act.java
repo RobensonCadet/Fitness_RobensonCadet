@@ -63,10 +63,14 @@ public class Menu_act extends AppCompatActivity {
 
         clientes.add("Roberto");
         clientes.add("Ivan");
+        clientes.add("Robenson");
+        clientes.add("Cadet");
 
 
         planes.add("Xtreme");
         planes.add("Mindfullness");
+        planes.add("Premium");
+        planes.add("Fitness");
 
 
         Intent i = new Intent(this, Clientes_act.class);
